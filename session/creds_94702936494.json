@@ -66,4 +66,25 @@
     "details": "CIqJgyAQh/KbxQYYASAAKAA=",
     "accountSignatureKey": "Pst+/tM7rxkMdTEYhv08cg1OqELNuEHf36Du1F+yUx4=",
     "accountSignature": "ccfqRsb5qOZWweD5qZHd/dU1CzdIkP1j48P44cRVo5Pkr4UbsqHAk3ShWL5xkd3n6lHrKvstPd9q0Ijj4990Dg==",
-    "deviceSignature": "
+    "deviceSignature": "MlveoujwRlA2Y6Yg+b9ghDPZNAJ5SwKaEQqVmrcf+cZpcLStb2BpnCIRDEWogpK0RN4OLwoWyn7ye6P2Uh2igw=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94702936494:17@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BT7Lfv7TO68ZDHUxGIb9PHINTqhCzbhB39+g7tRfslMe"
+      }
+    }
+  ],
+  "platform": "android",
+  "routingInfo": {
+    "type": "Buffer",
+    "data": "CAIIEg=="
+  },
+  "lastAccountSyncTimestamp": 1755773257,
+  "lastPropHash": "1K4hH4"
+}
